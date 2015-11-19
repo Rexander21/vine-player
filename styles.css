@@ -1,5 +1,5 @@
 html {
-  background-color: "http://images.alphacoders.com/781/78113.jpg";
+  background: http://images.alphacoders.com/781/78113.jpg (background.jpg);
   text-align: center;
 }
 
@@ -15,4 +15,3 @@ video {
   height: 300px;
   border-radius: 5px;
 }
-<input name="button" type="button" onclick="window.close();" value="Cerrar esta ventana" />
